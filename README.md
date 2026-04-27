@@ -6,7 +6,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Pas%20la%20peine%20de%20paniquer%20tout%20%C3%A7a%20c%27est%20que%20du%20provisoire&author=Onizuka)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=weromiento&theme=rose&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=weromiento&theme=rose&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=weromiento&theme=rose&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
